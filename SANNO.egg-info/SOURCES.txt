@@ -1,0 +1,7 @@
+README.md
+setup.py
+SANNO.egg-info/PKG-INFO
+SANNO.egg-info/SOURCES.txt
+SANNO.egg-info/dependency_links.txt
+SANNO.egg-info/requires.txt
+SANNO.egg-info/top_level.txt
