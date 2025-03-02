@@ -28,6 +28,8 @@ To use {Project Name}, follow these steps:
 2. Install dependencies:
     ```
     pip install -r requirements.txt
+    # or just pip install SANNO
+    pip install SANNO
     ```
 3. Install [PYG](https://pytorch-geometric.readthedocs.io/en/latest/index.html) and [Pytorch](https://pytorch.org/) according to the CUDA version, take torch-1.13.1+cu117 (Ubuntu 20.04.4 LTS) as an example:
     ```
