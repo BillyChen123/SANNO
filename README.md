@@ -106,9 +106,9 @@ If you use SANNO in your research, please cite:
 
 ```
 @article{yourcitation,
-  title={{Your Paper Title}},
-  author={Your Name, Coauthor Name},
-  journal={Journal Name},
+  title={{SANNO: A Graph-Transformer Enhanced Optimal Transport Tool for Spatial Transcriptomic Annotation }},
+  author={Yuansong Zeng, Yuanze Chen},
+  journal={INSC},
   volume={00},
   pages={1--10},
   year={2024}
