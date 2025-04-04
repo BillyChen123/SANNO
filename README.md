@@ -105,12 +105,8 @@ Running the above command will generate three output files in the output path:
 If you use SANNO in your research, please cite:
 
 ```
-@article{yourcitation,
+@article{
   title={{SANNO: A Graph-Transformer Enhanced Optimal Transport Tool for Spatial Transcriptomic Annotation }},
-  author={Yuansong Zeng, Yuanze Chen},
-  journal={INSC},
-  volume={00},
-  pages={1--10},
-  year={2024}
+  author={Yuansong Zeng, Yuanze Chen, Ningyuan Shangguan, Wenbin Li, Hongyu Zhang, Zheng Wang, Huiying Zhao}
 }
 ```
